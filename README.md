@@ -1,8 +1,9 @@
 # 💱 Exchange Rate Calculator
 A currency converter that converts any currency into another currency in the equivalent amount
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![API](https://img.shields.io/badge/API-ExchangeRate-api-green)
-![Responsive](https://img.shields.io/badge/Mobile-Friendly-Yes-blue)
+![HTML5](https://img.shields.io/badge/HTML5-red)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
 
 A simple web tool that shows **live currency exchange rates** and calculates conversions.
 
